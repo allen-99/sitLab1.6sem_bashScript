@@ -1,0 +1,1 @@
+# sitLab1.6sem_bashScript
